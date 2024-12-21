@@ -1,0 +1,20 @@
+2024-12-13 11:39:55,POST,jirodichos,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event_id' in 'field list'
+2024-12-13 11:44:16,POST,jirodichos,Created a new record from ['user_tbl']
+2024-12-13 11:44:25,PATCH,jirodichos,SQLSTATE[HY093]: Invalid parameter number
+2024-12-13 11:44:37,PATCH,jirodichos,data record is PATCH from ['user_tbl']
+2024-12-13 11:44:48,PATCH,jirodichos,data record is PATCH from ['user_tbl']
+2024-12-13 11:45:02,PATCH,jirodichos,data record is PATCH from ['user_tbl']
+2024-12-13 11:46:03,PATCH,jirodichos,data record is PATCH from ['user_tbl']
+2024-12-13 11:46:27,PATCH,jirodichos,data record is PATCH from ['user_tbl']
+2024-12-13 11:52:41,PATCH,jirodichos,SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*' at line 1
+2024-12-13 11:52:56,PATCH,jirodichos,SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*' at line 1
+2024-12-13 11:55:39,PATCH,jirodichos,SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_portal.event_tbl' doesn't exist
+2024-12-13 11:56:11,PATCH,jirodichos,SQLSTATE[HY093]: Invalid parameter number
+2024-12-13 11:56:21,PATCH,jirodichos,data record is PATCH from ['event_tbl']
+2024-12-13 11:56:55,PATCH,jirodichos,data record is PATCH from ['event_tbl']
+2024-12-13 11:57:28,PATCH,jirodichos,data record is PATCH from ['event_tbl']
+2024-12-13 12:01:33,PATCH,jirodichos,data record is PATCH from ['event_tbl']
+2024-12-13 12:01:36,PATCH,jirodichos,data record is PATCH from ['event_tbl']
+2024-12-13 12:01:37,PATCH,jirodichos,data record is PATCH from ['event_tbl']
+2024-12-13 12:01:37,PATCH,jirodichos,data record is PATCH from ['event_tbl']
+2024-12-13 12:01:37,PATCH,jirodichos,data record is PATCH from ['event_tbl']

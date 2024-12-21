@@ -1,0 +1,29 @@
+2024-12-12 19:54:22,POST,jiroV41I,Created a new chefs record
+2024-12-12 19:55:15,DELETE,jiroV41I,DELETE record
+2024-12-12 20:09:04,DELETE,jiroV41I,data record is deleted
+2024-12-12 20:09:07,DELETE,jiroV41I,data record is deleted
+2024-12-12 20:09:16,DELETE,jiroV41I,data record is deleted
+2024-12-12 20:11:56,DELETE,jiroV41I,data record is deleted from ['ticket_tbl']
+2024-12-12 20:12:09,DELETE,jiroV41I,data record is deleted from ['ticket_tbl']
+2024-12-12 20:13:45,DELETE,jiroV41I,data record is deleted from ['ticket_tbl']
+2024-12-12 20:13:52,DELETE,jiroV41I,data record is deleted from ['user_tbl']
+2024-12-12 20:13:57,DELETE,jiroV41I,data record is deleted from ['user_tbl']
+2024-12-12 20:15:56,DELETE,jiroV41I,data record is deleted from ['events_tbl']
+2024-12-12 20:20:01,DELETE,jiroV41I,data record is archive from ['user_tbl']
+2024-12-12 20:20:05,DELETE,jiroV41I,data record is archive from ['user_tbl']
+2024-12-12 20:20:05,DELETE,jiroV41I,data record is archive from ['user_tbl']
+2024-12-12 20:20:06,DELETE,jiroV41I,data record is archive from ['user_tbl']
+2024-12-12 20:20:06,DELETE,jiroV41I,data record is archive from ['user_tbl']
+2024-12-12 20:20:11,DELETE,jiroV41I,data record is archive from ['user_tbl']
+2024-12-12 20:29:54,PATCH,jiroV41I,SQLSTATE[HY093]: Invalid parameter number
+2024-12-12 20:38:42,POST,jiroV41I,Created a new ticket record
+2024-12-12 21:00:46,POST,jiroV41I,SQLSTATE[HY093]: Invalid parameter number
+2024-12-12 21:01:59,POST,jiroV41I,you have added a new data record from ['accounts_tbl']
+2024-12-12 21:02:04,POST,jiroV41I,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'jirodichos' for key 'username'
+2024-12-12 21:02:26,POST,,user jirodichos is ['LOGIN']
+2024-12-12 21:05:19,DELETE,jirodichos,
+2024-12-12 21:06:06,POST,jirodichos,
+2024-12-12 21:06:56,POST,jirodichos,user jirodichos is ['LOGIN']
+2024-12-12 21:06:58,POST,jirodichos,user jirodichos is ['LOGIN']
+2024-12-12 21:06:59,POST,jirodichos,user jirodichos is ['LOGIN']
+2024-12-12 21:11:06,POST,jirodichos,user jirodichos is ['LOGIN']
